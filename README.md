@@ -14,19 +14,6 @@ A simple and interactive Pokedex app built with **Ionic Angular**, utilizing the
 - 🔗 Integrated with PokéAPI (https://pokeapi.co/)
 
 
-📂 Project Structure
---------------------
-pokedex-ionic/
-├── src/
-│   ├── app/
-│   │   ├── home/               
-│   │   ├── pages/            
-│   │   ├── services/           
-│   │   └── app-routing.module.ts
-│   └── index.html
-├── angular.json
-├── package.json
-└── README.md
 
 🔧 Installation
 ---------------
