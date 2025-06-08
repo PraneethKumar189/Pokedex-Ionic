@@ -18,7 +18,7 @@ A simple and interactive Pokedex app built with **Ionic Angular**, utilizing the
 🔧 Installation
 ---------------
 1. Clone the repository
-   git clone https://github.com/your-username/pokedex-ionic.git
+   git clone https://github.com/PraneethKumar189/Pokedex-Ionic.git
    cd pokedex-ionic
 
 2. Install dependencies
